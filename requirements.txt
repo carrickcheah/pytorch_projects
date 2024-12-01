@@ -1,0 +1,15 @@
+torch
+torchvision
+ipykernel
+seaborn
+requests
+psutil
+kaleido
+graphviz
+torchmetrics
+scikit-learn
+torchviz
+
+
+# to use GPU, and CUDA need to go this website and install the correct version of pytorch
+# https://pytorch.org/get-started/locally/
